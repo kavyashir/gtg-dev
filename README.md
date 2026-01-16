@@ -6,7 +6,7 @@ This project showcases elegant UI design, smooth interactions, and clean fronten
 ---
 
 ## 🔗 Live Demo
-👉 https://kavyashir.github.io/gtghtmldeveloper/
+👉 [https://kavyashir.github.io/gtghtmldeveloper/](https://kavyashir.github.io/gtg-dev/)
 
 ---
 
